@@ -75,7 +75,7 @@ Bu proje, **Kitapyurdu** üzerindeki kitap yorumlarını otomatik olarak toplay�
 
 Google Colab üzerinde çalıştırmak için:
 
-1. [Colab Notebook'u Açın](https://colab.research.google.com)
+1. [Colab Notebook'u Açın](https://colab.research.google.com/drive/1gIWDsgcktMg-R2xIJ144FzyphtpSz6uU?usp=sharing)
 2. Tüm hücreleri sırasıyla çalıştırın.
 3. Kitap adını girerek sistemi başlatın.
 
