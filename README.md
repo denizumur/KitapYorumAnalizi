@@ -70,14 +70,6 @@ Bu proje, **Kitapyurdu** üzerindeki kitap yorumlarını otomatik olarak toplay�
 
 ---
 
-## 📌 Geliştirme Önerileri
-
-- 🔄 **Otomatik Özetleme (T5/PEGASUS modelleri ile)**
-- 🏷️ **Yorumlara tema atama (örneğin: dil, karakter, kurgu üzerine)**
-- 🔗 **Goodreads/1000Kitap/DR yorumları entegresi**
-- 💬 **Kullanıcı dostu arayüz (Streamlit / Gradio)**
-
----
 
 ## 📥 Kurulum & Çalıştırma
 
@@ -89,7 +81,6 @@ Google Colab üzerinde çalıştırmak için:
 
 ---
 
-## 👨‍💻 Katkıda Bulunanlar
 
 
 - [öneri için bana ulaşın!]
